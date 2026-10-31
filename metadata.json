@@ -1,0 +1,9 @@
+{
+  "name": "PulseCast Live Studio",
+  "description": "Live camera streaming platform with real-time video analytics, audience metrics, and interactive user chat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
